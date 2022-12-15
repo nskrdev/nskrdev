@@ -14,7 +14,7 @@
 
 - 📫 Reachout to me at **narrasuryakoushikreddy@gmail.com**
 
-- ⚡ Fun fact **I have social anxiety**
+- ⚡ Fun fact **'Don't believe everything you think'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
