@@ -14,7 +14,7 @@
 
 - 📫 Reachout to me at **narrasuryakoushikreddy@gmail.com**
 
-- ⚡ Fun fact **“I think the idea of me is better than the reality of me.”**
+- ⚡ Fun fact **“The idea of me is better than the reality of me.”**
 
 
 
