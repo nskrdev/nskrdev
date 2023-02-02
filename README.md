@@ -6,15 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/kauschik_net" target="blank"><img src="https://img.shields.io/twitter/follow/kauschik_net?logo=twitter&style=for-the-badge" alt="kauschik_net" /></a> </p>
 
-- 🎓 I’m currently studying **Data Science in JNTU Hyderabad.**
+- 🎓 I’m currently studying **Data Science at JNTU Hyderabad.**
 
-- 👨🏻‍💻 I’m currently working on **Networks and Cybersecurity**
+- 👨🏻‍🎓 I'm a **Computer Science graduate**
 
-- 💬 Ask me about **Data Science, Linux, Networks**
+- 👨🏻‍💻 Interested in **Networks and Cybersecurity**
 
-- 📫 Reachout to me at **narrasuryakoushikreddy@gmail.com**
+- 🎭 ***"Dread it. Run from it. Destiny still arrives."*** 
 
-- ⚡ Fun fact **“The idea of me is better than the reality of me.”**
+- 📫 You can reachout to me at **narrasuryakoushikreddy@gmail.com**
+
+
+
 
 
 
