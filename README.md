@@ -1,7 +1,12 @@
 <h1 align="center">Hello👋, I'm Koushik</h1>
 
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kauschik&label=Profile%20views&color=0e75b6&style=flat" alt="kauschik" /> </p>
 ## 💫 About Me:
 Computer Science Student | Linux User | Programmer | Cyber Security Enthusiast<br><br>👨🏻‍🎓 I'm a Computer Science graduate.<br><br>👨🏻‍💻 Interested in Networks and Cybersecurity.<br><br>📫 You can reachout to me at narrasuryakoushikreddy@gmail.com
+
 
 
 ## 🌐 Socials:
