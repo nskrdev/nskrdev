@@ -7,7 +7,7 @@
 
 ##  💫 About Me:
 
-Computer Science Student | Linux User | Programmer | Cyber Security Enthusiast<br><br>👨🏻‍🎓 I'm a Computer Science graduate.<br><br>👨🏻‍💻 Interested in Networks and Cybersecurity.<br><br>📫 You can reachout to me at narrasuryakoushikreddy@gmail.com
+Computer Science Student | Linux User | Programmer | Cyber Enthusiast<br><br>👨🏻‍🎓 I'm a Computer Science graduate.<br><br>👨🏻‍💻 Interested in Networks and Cybersecurity.<br><br>📫 You can reachout to me at narrasuryakoushikreddy@gmail.com
 
 
 
