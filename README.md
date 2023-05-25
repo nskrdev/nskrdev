@@ -21,6 +21,6 @@ Computer Science Student | Linux User | Programmer | Cyber Enthusiast<br><br>�
 ![](https://github-profile-trophy.vercel.app/?username=kauschik&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Fav Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
