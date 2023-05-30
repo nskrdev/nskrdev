@@ -1,17 +1,22 @@
-<h1 align="center">Hello👋, I'm Koushik</h1>
+<h1 align="center">Hallo👋, I'm Koushik</h1>
 
 
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauschik&label=Profile%20views&color=0e75b6&style=flat" alt="kauschik" /> </p>
 
 ##  💫 About Me:
 
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+
 Computer Science Student | Linux User | Programmer | Cybersecurity Enthusiast<br><br>
 
 👨🏻‍🎓 I'm a Computer Science graduate.<br><br>
+
 👨🏻‍💻 Interested in Networks and Cybersecurity.<br><br>
+
 📫 You can reachout to me at kauschik@yahoo.com 
+
 
 
 
@@ -23,6 +28,6 @@ Computer Science Student | Linux User | Programmer | Cybersecurity Enthusiast<br
 
 
 
-### ✍️ Fav Dev Quote
+### ✍️ Fav Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
