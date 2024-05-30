@@ -1,4 +1,4 @@
-<h2 align="center"> Koushik;// remember me by this variable name </h2>
+<h1 align="center"> *boots up* Greetings, fellow humans! I'm Koushik </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryaKodes&label=Profile%20views&color=0e75b6&style=flat" alt="SuryaKodes" /> </p>
