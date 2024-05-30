@@ -9,13 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
-CS Student | Linux User | Programmer | Cybersecurity Enthusiast<br><br>
+CS Student | Linux User | Programmer | Cybersecurity Enthusiast <br><br>
 
-👨🏻‍🎓 I'm a Computer Science graduate.<br><br>
+👨🏻‍💻 My spirit animal is a semicolon; always causing unnecessary drama.<br><br>
 
-👨🏻‍💻 Interested in Networks and Cybersecurity.<br><br>
-
-📫 You can reachout to me at kauschik@yahoo.com 
+📫 You can reachout to me at kauschik@yahoo.com <br><br>
 
 
 
