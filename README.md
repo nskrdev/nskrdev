@@ -13,7 +13,7 @@ CS Student | Linux User | Programmer | Cybersecurity Enthusiast <br><br>
 
 👨🏻‍💻 My spirit animal is a semicolon; always causing unnecessary drama.<br><br>
 
-📫 You can reachout to me at kauschik@yahoo.com <br><br>
+📫 You can reachout to me at --> skr.narra@gmail.com <br><br>
 
 
 
