@@ -6,7 +6,7 @@
 ##  💫 About Me:
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 CS Student | Linux User | Programmer | Cybersecurity Enthusiast <br><br>
