@@ -1,5 +1,5 @@
 <!-- Main Header -->
-<h1 align="center"> Greetings, ladies and mentlegen! </h1>
+<h1 align="center"> Greetings, ladies and mentlegen! **I'm Koushik 🤓** </h1>
 
 <!-- Profile View Counter -->
 <p align="left"> 
@@ -8,8 +8,6 @@
 
 <!-- 💫 About Me Section -->
 ## 💫 About Me:
-
-  **I'm Koushik 🤓**
 
 Writes Code, Deletes Bugs, Questions Life | Linux for Fun, Cybersecurity for Drama | Forever Debugging 🛠️<br><br>
 
