@@ -1,5 +1,5 @@
 <!-- Main Header -->
-<h1 align="center"> Greetings, ladies and mentlegen! **I'm Koushik 🤓** </h1>
+<h1 align="center"> Greetings, ladies and mentlegen! I'm Surya 🤓 </h1>
 
 <!-- Profile View Counter -->
 <p align="left"> 
