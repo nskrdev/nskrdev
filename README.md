@@ -9,46 +9,100 @@
 <!-- 💫 About Me Section -->
 ## 💫 About Me:
 
-Writes Code, Deletes Bugs, Questions Life | Linux for Fun, Cybersecurity for Drama | Forever Debugging 🛠️<br><br>
+Training Models, Breaking Baselines, Questioning Hyperparameters | AI/ML Engineer by Day, Model Whisperer by Night | Forever Fine-Tuning 🤖<br><br>
 
 
-👨🏻‍💻 **Spirit animal:** *A semicolon; causing unnecessary drama but still essential.* <br>
+👨🏻‍💻 **Spirit animal:** *A neural network; complex on the inside but makes everything look simple.* <br>
 
-👀 **Fun fact:** *I spend more time aligning my code comments than solving bugs.* <br>
+🧠 **Current obsession:** *Trying to explain to my models that overfitting is NOT a feature.* <br>
 
-🙃 **Favorite Quote:** <i>“Know yourself and you will win all battles.”</i> — Sun Tzu, *The Art of War*
+👀 **Fun fact:** *I've spent more time debugging tensor shapes than I'd like to admit.* <br>
 
-📫 **Contact Me:** *skr.narra@gmail.com* — _send memes or serious queries, but memes preferred._
+🙃 **Favorite Quote:** <i>"Know yourself and you will win all battles."</i> — Sun Tzu, *The Art of War* (also applies to hyperparameter tuning)
+
+📫 **Mail:** *red@nskr.me* — _send research papers, project ideas, or memes (especially AI memes)._
 
 <!-- 🌐 Social Links -->
 ## 🌐 Find Me Online:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n5k_reddi) _Follow to see my non-existent perfect shots!_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryakoushik) _Let's connect and talk AI, ML, or cybersecurity._
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryakoushik) _Let's connect, but no pyramid schemes please._
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_Semicolon) _Lurking in r/MachineLearning and r/LocalLLaMA._
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_Semicolon) _Mostly lurking in programming meme subreddits._
+<!-- 🤖 What I'm Working On -->
+## 🤖 Current Focus:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skr_narra) _Tweeting errors in 280 characters or less._
+🔬 Building and fine-tuning machine learning models for real-world applications
+
+🧪 Experimenting with LLMs, computer vision, and deep learning architectures
+
+🛡️ Exploring AI security and adversarial machine learning
+
+🔧 Deploying ML models to production with Docker and cloud platforms
+
+📚 Constantly learning about the latest in transformers, diffusion models, and AGI research
+
+<!-- 💬 Ask Me About -->
+## 💬 Ask Me About:
+
+🤖 **LLM Fine-tuning & Prompt Engineering** - Building smarter AI assistants
+
+🔍 **Computer Vision** - From image classification to object detection
+
+📊 **ML Model Optimization** - Making models faster and more efficient
+
+🐧 **Linux & Cybersecurity** - Because security matters in AI too
+
+🚀 **MLOps & Deployment** - Taking models from Jupyter notebooks to production
 
 <!-- 💻 Tech Stack Section -->
-## 💻 My Tech Stack:
+## 💻 My AI/ML Arsenal:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=flat&logo=matplotlib&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=flat&logo=figma&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
+### 🧠 Deep Learning Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-%23EE4C2C.svg?style=flat)
 
+### 🗣️ NLP & LLMs
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat) ![LangChain](https://img.shields.io/badge/🦜%20LangChain-121212?style=flat) ![LlamaIndex](https://img.shields.io/badge/🦙%20LlamaIndex-6366F1?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat)
+
+### 👁️ Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat) ![Detectron2](https://img.shields.io/badge/Detectron2-3578E5?style=flat) ![Albumentations](https://img.shields.io/badge/Albumentations-FF6F00?style=flat)
+
+### 📊 Data Science & ML Tools
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337ab7?style=flat) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat)
+
+### 📈 Visualization & Analytics
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23444876.svg?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FB542B?style=flat)
+
+### ⚡ Model Optimization & Deployment
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white) ![Triton](https://img.shields.io/badge/Triton-76B900?style=flat&logo=nvidia&logoColor=white) ![TorchServe](https://img.shields.io/badge/TorchServe-EE4C2C?style=flat)
+
+### 🔧 MLOps & Experiment Tracking
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black) ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+### ⚡ Distributed Computing
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FDA061?style=flat)
+
+### 💻 Development Tools & Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### 🗄️ Databases & Vector Stores
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat) ![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=flat) ![Weaviate](https://img.shields.io/badge/Weaviate-6FD086?style=flat)
+
+### 🖥️ Systems & Tools
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 <!-- Funny thing to impress  -->
 <p align="center">
-  <strong>Wait, you're still here? 👀</strong>
+  <strong>Still scrolling? 🤖</strong>
 </p>
 
 <p align="center">
-  Go code something already! 😜💻  
-  If you ever want to chat (or debug together), just hit me up! 🤝
+  Go train a model already! 🚀  
+  If you want to collaborate on AI projects, discuss research, or just geek out about neural nets, hit me up! 🤝
 </p>
 
-
-
-<!-- Catchphrase
 <p align="center">
-  <strong><em>"Disclaimer: No semicolons were harmed in the making of this README."</em></strong>
-</p> -->
+  <strong><em>"Disclaimer: Multiple GPUs were harmed (thermally) in the making of my projects."</em></strong>
+</p>
