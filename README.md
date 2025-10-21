@@ -6,7 +6,7 @@
 
 <!-- Profile View Counter -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=KoushikScripts&label=Profile%20views&color=0e75b6&style=flat" alt="KoushikScripts" /> 
+  <img src="https://komarev.com/ghpvc/?username=nskrdev&label=Profile%20views&color=0e75b6&style=flat" alt="NSKRdev" /> 
 </p>
 
 <!-- 💫 About Me Section -->
